@@ -1,0 +1,30 @@
+export const users = [
+    {
+        id:1,
+        name:'Arun'
+    },
+    {
+        id:2,
+        name:'Rajesh'
+    },
+    {
+        id:3,
+        name:'Nakul'
+    },
+    {
+        id:4,
+        name:'Aravind'
+    },
+    {
+        id:5,
+        name:'Mahesh'
+    },
+    {
+        id:6,
+        name:'AruJohn'
+    },
+    {
+        id:7,
+        name:'Reddy'
+    }
+]

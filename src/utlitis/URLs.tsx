@@ -1,0 +1,1 @@
+export const apiHost = window.location.host.includes('localhost') ? `http://localhost:5008/` : `https://n1040919-api.azurewebsites.net/` ;
